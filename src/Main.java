@@ -8,7 +8,6 @@ public class Main {
         } else {
             System.out.println("логин и пароль неправильные");
         }
-
     }
 
 

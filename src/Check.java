@@ -22,7 +22,6 @@ public class Check {
         }
         Check3(login, true);
         Check3(password, true);
-
     }
     private static void Check3(String s,boolean login) throws WrongLoginException, WrongPasswordException{
         for (int i = 0; i < s.length(); i++) {
